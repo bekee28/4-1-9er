@@ -6,7 +6,9 @@ In addition to the questionnaire, these additional questions were added:
  
  'For how many years or months have you been listening to Drill music',
  
- 'On average, how many hours a week do you spend listening to Drill music'
+ 'On average, how many hours a week do you spend listening to Drill music', (independent variable)
+ 
+ 'Lastly, please indicate your age below'
  
 The 166 respondents are categorized into three groups: Light, Medium, and Heavy listeners based on the amount of time spent listening to drill music per week. 
 
