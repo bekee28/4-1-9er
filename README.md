@@ -1,4 +1,4 @@
- Self-reported online survey to study the link between drill rap and physical aggression
+A  self-reported, well-established questionnaire containing a scale to assess physical aggression was used for data collection. This questionnaire is based on the 29-Item Aggression Questionnaire (Buss & Perry, 1992). Out of the 29 items in the questionnaire, 9 of them pertain to physical aggression, and those were the ones used in this survey
  
 The 166 respondents are categorized into three groups: Light, Medium, and Heavy listeners based on the amount of time spent listening to drill music per week. 
 
