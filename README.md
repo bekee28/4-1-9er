@@ -1,3 +1,8 @@
  Self-reported online survey to study the link between drill rap and physical aggression
  
-With the rise in popularity of drill music, a genre akin to mainstream hip-hop rap, but grittier in sound, there have been growing concerns about the negative influence of drill music on the behaviors of young adults who are its primary consumers. Drill music is known for its explicit, violent lyrics and intense instrumental. That is the nature of the genre. Concerns surrounding this genre of music is reflected in the efforts made by the authorities, especially in the U.K to censor drill artists by taking down their music videos on youtube. Also, a testament to the concerns surrounding the genre is that some parents ban their kids from listening to drill music. So, does drill music have a negative effect on the youth? Does it make them more physically aggressive? 
+The 166 respondents are categorized into three groups: Light, Medium, and Heavy listeners based on the amount of time spent listening to drill music per week. 
+
+77 respondents listen to drill music for up to 7 hours per week (no more than an hour a day on average) which is classified as light levels of listening. 
+57 respondents listen for more than 7 hours, but no more than 21 hours per week (no less than an hour per day, but no more than 3 hours a day on average) which classifies them under the medium levels of listening.
+32 respondents who listen for more than 21 hours per week (averaging more than 3 hours a day) are classified under the heavy listener category. 
+
